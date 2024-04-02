@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Ahmed-Toufahi, an engineering student at INSAT
+- 👀 I’m interested in computer science and technologies
+- 🌱 I’m currently immersing myself in the world of web development with .net technologies
+- 💞️ I’m looking to collaborate on projects that have an impact
+- 📫 Send me an email on : atoufahiahmed@gmail.com
+- ⚡ I like reading books that shake the soul and change one's prespective
