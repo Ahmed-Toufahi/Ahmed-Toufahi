@@ -3,4 +3,4 @@
 - 🌱 I’m currently immersing myself in the world of web development with spring and spring boot
 - 💞️ I’m looking to collaborate on projects that have an impact
 - 📫 Send me an email on : atoufahiahmed@gmail.com
-- ⚡ I like reading books that shake the soul and change one's prespective
+- ⚡ I like am passionate about technolgoy, sociology and books
