@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahmed-Toufahi, an engineering student at INSAT
-- 👀 I’m interested in computer science and technologies
-- 🌱 I’m currently immersing myself in the world of web development with spring and spring boot
-- 💞️ I’m looking to collaborate on projects that have an impact
+- 👀 I’m interested in web development and software design
+- 🌱 I’m currently immersing myself in the world of web development with , .net, spring and spring boot
+- 💞️ I’m looking to collaborate on impactful and innovative projects
 - 📫 Send me an email on : atoufahiahmed@gmail.com
-- ⚡ I like am passionate about technolgoy, sociology and books
+- ⚡ I am passionate about technology, sociology and books
